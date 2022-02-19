@@ -1,10 +1,10 @@
 <h2> Hey there! I'm Maria.</h2>
 
 <h3> About Me </h3>
-- ##Learning: React Js framework
-- ** Languages: ** Javascript, Java
-- ** Hobbies: ** Music & Movies
-- ** Fact: ** Coding, a creative way to solve problems 🎈
+- Learning: React Js framework
+- Languages: Javascript, Java
+- Hobbies: Music & Movies
+- Fact: Coding, a creative way to solve problems 🎈
 
 
 <h3> Tech Stack </h3>
