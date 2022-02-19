@@ -1,9 +1,10 @@
 <h2> Hey there! I'm Maria.</h2>
 
-<h3> About Me </h3>
-- Learning: React Js framework
-- Languages: Javascript, Java
-- Hobbies: Music & Movies
+<h3> About Me </h3> <br/>
+
+- Learning: React Js framework <br/>
+- Languages: Javascript, Java  <br/>
+- Hobbies: Music & Movies  <br/>
 - Fact: Coding, a creative way to solve problems 🎈
 
 
@@ -23,13 +24,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<br/>
-
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin4mari8&theme=buefy&layout=compact" />
-</a>
-
-<br/>
 
 <h3> Connect with Me </h3>
 
