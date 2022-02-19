@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Maria.</h2>
 
 <h3> About Me </h3>
-- ** Learning: ** React Js framework
+- **Learning:** React Js framework
 - ** Languages: ** Javascript, Java
 - ** Hobbies: ** Music & Movies
 - ** Fact: ** Coding, a creative way to solve problems 🎈
@@ -36,7 +36,7 @@
 <h3> Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maria%20Martin%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/martinmari_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-martinmari___-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:martinmariaaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinmariaaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
