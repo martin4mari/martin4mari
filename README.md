@@ -37,8 +37,8 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/martinmari_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:martinmariaaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/martinmari_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-martinmari___-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:martinmariaaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinmariaaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [martin4mari](https://github.com/martin4mari)
