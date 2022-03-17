@@ -20,10 +20,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=FFF)
+
 - 🎨 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=#87CEEB) 
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=696EFF)
-
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin4mari&theme=blue-green)
   
 <h3> Connect with Me </h3>
 
