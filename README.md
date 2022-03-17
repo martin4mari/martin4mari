@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- Languages: Javascript, Java  <br/>
+- Languages: JavaScript, Java  <br/>
 - Hobbies: Music & Movies  <br/>
 - Fact: Coding, a creative way to solve problems 🎈
 
