@@ -6,7 +6,6 @@
 - Hobbies: Music & Movies  <br/>
 - Fact: Coding, a creative way to solve problems 🎈
 
-
 <h3> Tech Stack </h3>
 
 - 💻 &nbsp;
@@ -20,20 +19,21 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=flat&logo=apache-netbeans-ide&logoColor=FFF)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-3e4144.svg?style=flat&logo=apache-netbeans-ide&logoColor=FFF)
 
 - 🎨 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=#87CEEB) 
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=696EFF)
   
+  <br>
+
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin4mari&theme=blue-green)
   
 <h3> Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maria%20Martin%20-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/martinmari_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-martinmari___-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:martinmariaaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinmariaaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [martin4mari](https://github.com/martin4mari)
+⭐️ From [martin4mari](https://martin4mari.github.io/)
