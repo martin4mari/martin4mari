@@ -3,8 +3,8 @@
 <h3> About Me </h3>
 
 - Currently learning: Angular framework  <br/>
-- Languages: JavaScript, Java  <br/>
-- Hobbies: Music & Movies. Also into NFT games <br/>
+- Languages: JavaScript, TypeScript, Java  <br/>
+- Hobbies: Music & Movies. Also into NFT games 🎮 <br/>
 - Fact: Coding, a creative way to solve problems 🎈
 
 <h3> Tech Stack </h3>
