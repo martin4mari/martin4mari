@@ -4,7 +4,7 @@
 
 - Currently learning: Angular framework  <br/>
 - Languages: JavaScript, Java  <br/>
-- Hobbies: Music & Movies  <br/>
+- Hobbies: Music & Movies. Also into NFT games <br/>
 - Fact: Coding, a creative way to solve problems 🎈
 
 <h3> Tech Stack </h3>
