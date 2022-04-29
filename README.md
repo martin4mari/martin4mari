@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- Currently learning: Angular framework  <br/>
+- Currently learning: VueJS framework <br/>
 - Languages: JavaScript, TypeScript, Java  <br/>
 - Hobbies: Music & Movies. I'm also into NFT games 🎮🎈 <br/>
 
@@ -14,6 +14,7 @@
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss&logoColor=#7739EF)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
