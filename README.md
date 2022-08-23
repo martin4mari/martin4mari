@@ -4,7 +4,10 @@
 
 - Currently learning: VueJS framework <br/>
 - Languages: JavaScript, TypeScript, Java  <br/>
-- Hobbies: Music & Movies. I'm also into NFT games 🎮🎈 <br/>
+- Hobbies: Music & Movies. I'm also into NFT games 🎮🎈 
+- I'm a frontend dev who loves web desing and backend too 🙃
+<br/>
+
 
 <h3> Tech Stack </h3>
 
