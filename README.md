@@ -2,10 +2,10 @@
 
 <h3> About Me </h3>
 
-- Currently learning: VueJS framework <br/>
+- Currently learning: UxUi Design <br/>
 - Languages: JavaScript, TypeScript, Java  <br/>
 - Hobbies: Music & Movies. I'm also into NFT games 🎮🎈 
-- I'm a frontend dev who loves web desing and backend too 🙃
+- I'm a frontend dev who loves web design and backend too 🙃
 <br/>
 
 
@@ -14,6 +14,8 @@
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+    ![VueJS](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vuejs)
+
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss&logoColor=#7739EF)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -27,7 +29,6 @@
 
 - 🎨 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=#87CEEB) 
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva&logoColor=696EFF)
   
   <br>
 
