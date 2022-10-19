@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Maria 🪐 </h2> 
 
-<h3> About Me </h3>
+<h3> About me </h3>
 
 - Currently learning: UxUi Design <br/>
 - Languages: JavaScript, TypeScript, Java  <br/>
@@ -34,10 +34,11 @@
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=martin4mari&theme=blue-green)
   
-<h3> Connect with Me </h3>
+<h3> Connect with me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Maria%20Martin%20-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/mar%C3%ADa-mart%C3%ADn-7448ab22b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.behance.net/mariamartin42"><img alt="Behance" src="https://img.shields.io/badge/Behance-black?style=flat-square&logo=behance"></a>
 <a href="mailto:martinmariaaa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-martinmariaaa@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
