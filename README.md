@@ -3,9 +3,7 @@
 <h3> About me </h3>
 
 - Currently learning: UxUi Design <br/>
-- Languages: JavaScript, TypeScript, Java  <br/>
-- Hobbies: Music & Movies. I'm also into NFT games 🎮🎈 
-- I'm a frontend dev who loves web design and backend too 🙃
+- Languages: JavaScript, Java  <br/>
 <br/>
 
 
@@ -14,13 +12,10 @@
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-    ![VueJS](https://img.shields.io/badge/-VueJs-333333?style=flat&logo=vuejs)
-
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TailwindCss](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss&logoColor=#7739EF)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+  
 - ⚙️ &nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - 🔧 &nbsp;
