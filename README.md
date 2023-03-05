@@ -4,6 +4,7 @@
 
 - Currently learning: UxUi Design <br/>
 - Languages: JavaScript, Java  <br/>
+- Frameworks: VueJs <br/>
 <br/>
 
 
